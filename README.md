@@ -65,7 +65,3 @@ This project was completed as part of my learning journey to deepen my understan
 -   Implementing filtering, pagination, sorting, and search logic
 -   Responsive UI design and conditional rendering with loaders
 -   TypeScript best practices in React projects
-
----
-
-Если хочешь — могу подставить **твоё имя**, GitHub ссылку, добавить **live demo**, перевести на русский для hh.ru или сделать короткую версию для резюме. Скажи, что нужно — и сделаем 🔥
