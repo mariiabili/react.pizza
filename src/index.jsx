@@ -1,11 +1,10 @@
 import ReactDOM from 'react-dom/client';
+import {BrowserRouter} from 'react-router-dom';
+import {App} from './App';
+import './scss/app.scss';
 
-import App from './App';
-
-const rootElem = document.getElementById('root');
-
-if (rootElem) {
-	const root = ReactDOM.createRoot(rootElem);
-
-	root.render(<App />);
-}
+ReactDOM.createRoot(document.getElementById('root')).render(
+	<BrowserRouter>
+		<App />
+	</BrowserRouter>,
+);
