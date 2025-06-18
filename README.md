@@ -41,18 +41,18 @@ src/
 
 ## 🖥️ Live Demo
 
-> (Add your deployed link here if you host it on Vercel/Netlify/etc)
+> https://mariiabili.github.io/react.pizza/
 
 ## 📸 Screenshots
 
-> (Optional — include a few clean screenshots of the UI)
+
 
 ## 🛠️ Installation
 
 npm install
 npm start
 
-Runs the app in development mode on https://mariiabili.github.io/react.pizza/
+Runs the app in development mode on http://localhost:3000
 
 ## 🎯 Purpose
 
