@@ -52,7 +52,7 @@ src/
 npm install
 npm start
 
-Runs the app in development mode on [http://localhost:3000](http://localhost:3000)
+Runs the app in development mode on https://mariiabili.github.io/react.pizza/
 
 ## 🎯 Purpose
 
