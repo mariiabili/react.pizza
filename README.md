@@ -1,6 +1,7 @@
 🍕 React Pizza V2
 
 This is a modern, responsive pizza ordering web application built with **React**. The project demonstrates real-world frontend development practices, focusing on performance, scalability, and a clean architectural structure.
+⚠️ Project is still in progress — learning Redux Toolkit, React Router advanced patterns, and TypeScript features.
 
 ## 🚀 Features
 
