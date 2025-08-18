@@ -41,7 +41,7 @@ src/
 
 ## 🖥️ Live Demo
 
-> https://mariiabili.github.io/react.pizza/
+> [https://mariiabili.github.io/react.pizza/](https://mariiabili.github.io/react.pizza/)
 
 ## 📸 Screenshots
 
